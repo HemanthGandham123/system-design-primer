@@ -7,7 +7,7 @@
 ## Step 1: Outline use cases and constraints
 
 > Gather requirements and scope the problem.
-> Ask questions to clarify use cases and constraints.
+> Ask questions to clarify use cases and constraints and gather requirements.
 > Discuss assumptions.
 
 Without an interviewer to address clarifying questions, we'll define some use cases and constraints.
